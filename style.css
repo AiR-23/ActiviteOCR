@@ -7,3 +7,14 @@ h1 {
 	text-align: center;
 	margin-top:50px;
 }
+
+h2 {
+	text-align: right;
+	margin-top: 10px;
+	color: #005500;
+}
+
+p {
+	text-align: justify;
+	color: #222222;
+}
