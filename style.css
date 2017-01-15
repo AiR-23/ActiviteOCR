@@ -1,3 +1,9 @@
 html {
 	background-color: #CCCCCC;
 }
+
+h1 {
+	color: #FF0000;
+	text-align: center;
+	margin-top:50px;
+}
